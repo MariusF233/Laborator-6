@@ -14,3 +14,4 @@ public class Square {
             super(x0-latura/2,y0-latura/2,x0+latura/2,y0+latura/2);
     }
 }
+//clasa Square defineste un nou Shape,patrat
